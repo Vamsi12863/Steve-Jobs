@@ -33,6 +33,7 @@ public class Calculator {
 			System.out.println("the division of two numbers " + v);
 			break;
 		default:
+			System.out.println("Enter a valid numbersss");
 			
 		}
 	}
